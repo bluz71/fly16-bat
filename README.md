@@ -2,13 +2,13 @@ fly16
 =====
 
 _fly16_ is a syntax highlighting theme for the
-[bat](https://github.com/sharkdp/bat) utility that is designed to match the
+[bat](https://github.com/sharkdp/bat) utility that is suitable to use with the
 [moonfly](https://github.com/bluz71/vim-moonfly-colors) &
 [nightfly](https://github.com/bluz71/vim-nightfly-guicolors) Vim/Neovim
-colorschemes (and associated terminal themes).
+colorschemes (and their associated terminal themes).
 
 _fly16_ is a derivation of the _bat_'s existing _base16_ theme but with specific
-tweaks to better match both _moonfly_ and _nightfly_, especially when used as a
+tweaks to adapt to both _moonfly_ and _nightfly_, especially when used as a
 previewer with the [fzf.vim](https://github.com/junegunn/fzf.vim) plugin.
 
 Installation
