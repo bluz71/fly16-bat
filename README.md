@@ -14,12 +14,11 @@ previewer with the [fzf.vim](https://github.com/junegunn/fzf.vim) plugin.
 Installation
 ------------
 
-Copy or symlink `fly16.tmTheme` to `~/.config/bat/themes` followed by `bat cache
---build`.
+Copy or symlink
+[fly16.tmTheme](https://raw.githubusercontent.com/bluz71/fly16-bat/master/fly16.tmTheme)
+to `~/.config/bat/themes` followed by `bat cache --build`.
 
-Then select
-[fly16](https://raw.githubusercontent.com/bluz71/fly16-bat/master/fly16.tmTheme)
-as your preferred _bat_ theme.
+Then select `fly16` as your preferred _bat_ theme.
 
 License
 -------
