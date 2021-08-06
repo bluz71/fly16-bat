@@ -9,7 +9,8 @@ colorschemes (and their associated terminal themes).
 
 _fly16_ is a derivation of the _bat_'s existing _base16_ theme but with specific
 tweaks to adapt to both _moonfly_ and _nightfly_, especially when used as a
-previewer with the [fzf.vim](https://github.com/junegunn/fzf.vim) plugin.
+previewer with the [fzf](https://github.com/junegunn/fzf) and the
+[fzf.vim](https://github.com/junegunn/fzf.vim) plugin.
 
 Installation
 ------------
