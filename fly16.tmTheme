@@ -17,10 +17,10 @@
           #08000000 - medium grey
           #09000000 - bright red (crimson)
           #0a000000 - bright green (emerald)
-          #0b000000 - bright yellow (khaki)
-          #0c000000 - bright blue (sky)
+          #0b000000 - bright yellow
+          #0c000000 - bright blue
           #0d000000 - bright magenta (purple)
-          #0e000000 - bright cyan (lime)
+          #0e000000 - bright cyan
           #0f000000 - bright white
         -->
         <key>author</key>
